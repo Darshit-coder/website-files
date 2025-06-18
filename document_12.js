@@ -6,7 +6,7 @@
 
     form.addEventListener('submit', function(e) {
       e.preventDefault();
-      if (input.value === "123456789") {
+      if (input.value === ",''Z@s!!O[=CbbW") {
         window.location.href = "https://www.youtube.com/";
       } else {
         alert("Incorrect password.");
