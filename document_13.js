@@ -7,7 +7,7 @@
     form.addEventListener('submit', function(e) {
       e.preventDefault();
       if (input.value === ",''Z@s!!O[=CbbW") {
-        window.location.href = "https://www.youtube.com/";
+        window.location.href = "https://www.linkedin.com/";
       } else {
         alert("Incorrect password.");
         input.value = '';
