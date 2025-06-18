@@ -1,7 +1,7 @@
 (function () {
   function init() {
-    const form = document.getElementById('passwordForm');
-    const input = document.getElementById('passwordInput');
+    const form = document.getElementById('passwordFormtegernsee');
+    const input = document.getElementById('passwordInputtegernsee');
     if (!form || !input) return;
 
     form.addEventListener('submit', function(e) {
